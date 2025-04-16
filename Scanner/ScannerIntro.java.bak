@@ -1,0 +1,31 @@
+import java.util.Scanner;
+class ScannerIntro 
+{
+	public static void main(String[] args) 
+	{
+		Scanner sc = new Scanner(System.in);
+		
+		//System.out.print("My name is : ");
+		System.out.print("Enter your first name : ");
+		String str1 = sc.next();
+		System.out.pritnln(str1);
+
+		System.out.print("Enter your last name : ");
+		String str2 = sc.next();
+		System.out.println(str2);
+
+		System.out.print("Address is : ");
+		String str3 = sc.nextLine();
+		System.out.println(str3);
+
+		System.out.print("My Age is : ");
+		int age = sc.nextInt();
+
+		//System.out.println("I am in 2nd year of MCA");
+		System.out.println("My current CGPA :");
+		float cgpa = sc.nextFloat();
+
+		System.out.println("Enter your phone number : ");
+		long phn = sc.nextLong();
+	}
+}
