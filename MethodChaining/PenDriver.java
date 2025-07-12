@@ -8,6 +8,7 @@ public class PenDriver {
 		p1.openCap().write().closeCap();
 	}
 }
+//	Method Chaining
 //	new Pen()
 //		👇
 //	.openCap()
