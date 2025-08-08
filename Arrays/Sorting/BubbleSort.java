@@ -19,11 +19,15 @@ public class BubbleSort {
 		{
 			for(int j=0 ; j<arr.length-1-i ; j++)
 			{
-				int temp = arr[j];
-				arr[j] = arr[j+1];
-				arr[j+1] = temp;
+				if(arr[j] > arr[j+1])
+				{
+					int temp = arr[j];
+					arr[j] = arr[j+1];
+					arr[j+1] = temp;	
+				}
 			}
 		}
-		System.out.println(i);
+		System.out.println(i); // It gives count of how many outer loop is traverse to array.
 	}
 }
+
