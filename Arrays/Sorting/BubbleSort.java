@@ -27,7 +27,8 @@ public class BubbleSort {
 				}
 			}
 		}
-		System.out.println(i); // It gives count of how many outer loop is traverse to array.
+		System.out.println(i); // It gives count of how many times outer loop is traverse or How many times it swaps an element of an array.
 	}
 }
+
 
