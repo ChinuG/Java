@@ -1,3 +1,4 @@
+// Time Complexity is O(log n)
 //	Array must be sorted in Ascending order to perform Binary Search.
 // 	Search element in 
 // 	Used to find an element in a sorted array.
@@ -46,3 +47,4 @@ public class BinarySearch {
 		
 	}
 }
+
