@@ -1,5 +1,5 @@
 package Sorting;
-
+import java.util.Arrays;
 public class MergeSort {
 	public static void main(String args[])
 	{
@@ -7,7 +7,12 @@ public class MergeSort {
 		int b[] = {0, 5, 6, 11, 18, 25, 70, 83, 99, 190, 280, 300};
 		
 		int ans[] = new int[a.length + b.length];
-		
+		MergeSort(a, b, ans);
+		System.out.println(Arrays.toString(ans);
+	}
+	
+	public static void MergeSort(int a[], int b[], int ans[])
+	{
 		int i=0; 
 		int j=0; 
 		int k=0;
@@ -34,5 +39,7 @@ public class MergeSort {
 		{
 			ans[k++] = b[j++];
 		}
+		System.out.println(k);
 	}
 }
+
