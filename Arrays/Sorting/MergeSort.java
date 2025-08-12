@@ -1,5 +1,5 @@
 package Sorting;
-
+// Two Pointer Approach. not going to ask in interview but it helps to understand how MergeSort works. 
 import java.util.Arrays;
 
 public class MergeSort {
@@ -46,3 +46,4 @@ public class MergeSort {
 		System.out.println(k);
 	}
 }
+
