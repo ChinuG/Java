@@ -39,12 +39,12 @@ public class MergeSort_02 {
 		// For left part of an array.
 		while(i <= mid)
 		{
-			arr[k++] = arr[i++];
+			temp[k++] = arr[i++];
 		}
 		// For left part of an array.
 		while(j <= ei)
 		{
-			arr[k++] = arr[j++];
+			temp[k++] = arr[j++];
 		}
 		
 		// Copy temp array in original array
