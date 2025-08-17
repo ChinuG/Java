@@ -21,7 +21,18 @@
 # Creator of Computer :- Charles Babbage 
                       - He is a Mechanical Engineer(Mathematician)
                       - He made Differential Engin in 1832
-  Ada Lovelace ---> First Programmer
+  - Ada Lovelace ---> First Programmer
+#  # levels of programming language
+1) Machine Level Or Low Level language
+  -  The language which is directly understandable to a machine or processor.
+  -  e.g. Binary language - ON, OFF
+                            (0, 1)
+
+2)  Assemblely Level Language
+  -  The language which consist of pre-defined set of codewords known as mnemonics which was understandable to computer using a assembler.
+
+# What is Assembler... ?
+  - Assembler is an intermediate software which acts like an translator which is used to convert or translate assemblely level language into machine level language.
 
 
 
