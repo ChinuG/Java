@@ -32,7 +32,33 @@
   -  The language which consist of pre-defined set of codewords known as mnemonics which was understandable to computer using a assembler.
 
 # What is Assembler... ?
-  - Assembler is an intermediate software which acts like an translator which is used to convert or translate assemblely level language into machine level language.
+  - Assembler is an intermediate software which acts like an translator which is used to convert or translate
+    assemblely level language into machine level language.
+
+3) High Level Language
+  - The language which is very similar to human understandable language which is easily readable, understandable and instructable by a programmer 
+    to a computer is known as high level language.
+  - English was choosen as the base language to make high level language.
+  - High level language is converted to machine level language using software know as compiler.
+
+# What is Compiler... ?
+  - Compiler is an Intermediate software which  is used to convert high level language to machine level language.
+
+# Platform
+  - Platform is a combination of some hardware components alogn with an software components on which application can run is called platform.
+  - Software are classified into 2 types according to platforms.
+    i] Platform dependent sofware.
+   ii] Platform Independent software.
+
+i] Platform dependent software
+  - If software are made using C, C++ are platform dependent.
+  - If the software design using the specific configuration platform and if the software can run on same configuration such kind of software is know as platform dependent software.
+
+ii] Platform Independent software
+  - If a software design using the specific configuration platform and if the software can run an any configuration platform such software are known as platform independent software.
+  - If is software which is made using a specific configuration platform and if that software can run on any platform such software called an independent software.
+  - Software made using JAVA platform independent
+*******************Notes added on date 15 March 2025*******************
 
 
 
