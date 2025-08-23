@@ -59,8 +59,14 @@ ii] Platform Independent software
   - If is software which is made using a specific configuration platform and if that software can run on any platform such software called an independent software.
   - Software made using JAVA platform independent
 *******************Notes added on date 15 March 2025*******************
+# Why Software made using C language iare platform dependetn... ?
+---> - When a programmer wirtes a program using C or C++ language save it with .c extension and give it to a C compiler.
+     - The C compiler converts .c file into .exe file.
+     - WHich contains native machine level code.
+     - The native machine level code is only understandable to natvie configuration platform but not any other platform.
+     - That's why C & C++ language are platform dependent.
 
-
+*******************Notes added on date 17 March 2025*******************
 
 
 
