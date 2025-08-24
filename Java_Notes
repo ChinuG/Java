@@ -67,8 +67,15 @@ ii] Platform Independent software
      - That's why C & C++ language are platform dependent.
 
 *******************Notes added on date 17 March 2025*******************
-
-
+#  WHy Java Software are platform independent... ?
+---> - If a programmer writes program using Java language & save it with .java extension give it to the Java Compiler.
+     - The Java Compiler converts the .java file into .class file which contains Byte Code.
+     - Byte Code is an intermediate code created by Java compiler which is neither understandable to computer nor the programmer.
+     - This JVM can be uderstandable to any configuration platform if those platform installed with software known as JVM.
+     - Creaters of Java have design JVM for every configuration platform such that any platform which is respective JVM can convert BYTE CODE to it's respective machine level language.
+     - This is how Software prove the concept of platform independent.
+     - Java Software is also called Right Once Run Anywhere concept.
+*******************Notes added on date 17 March 2025*******************
 
 
 
