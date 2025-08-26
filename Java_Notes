@@ -76,9 +76,13 @@ ii] Platform Independent software
      - This is how Software prove the concept of platform independent.
      - Java Software is also called Right Once Run Anywhere concept.
 *******************Notes added on date 17 March 2025*******************
+# JDK Architecture (Important)
 
+# JVM(Java Virtual Machine)
+ - It is an Interpreter which is used to convert byte code into machine level language line by line.
+ - The JVM present inside JRE.
 
-
+*******************Notes added on date 18 March 2025*******************
 
 
 
