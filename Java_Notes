@@ -82,7 +82,12 @@ ii] Platform Independent software
  - It is an Interpreter which is used to convert byte code into machine level language line by line.
  - The JVM present inside JRE.
 
+#  JRE(Java Runtime Environment)
+ - JRE consist of JVM and Built in library files which is used to completely run the Java application.
+ - JRE is present inside JDK
+
 *******************Notes added on date 18 March 2025*******************
+
 
 
 
