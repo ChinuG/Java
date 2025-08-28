@@ -86,6 +86,10 @@ ii] Platform Independent software
  - JRE consist of JVM and Built in library files which is used to completely run the Java application.
  - JRE is present inside JDK
 
+# JDK(Java Development Kit)
+ - It is a package given by Oracel community.
+ - Which consist of JRE and Development Tools, which helps us to develop as well as run the Java application.
+
 *******************Notes added on date 18 March 2025*******************
 
 
