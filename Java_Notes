@@ -90,6 +90,13 @@ ii] Platform Independent software
  - It is a package given by Oracel community.
  - Which consist of JRE and Development Tools, which helps us to develop as well as run the Java application.
 
+# Steps to Create, Cimpile and Execute a Java program.
+Step 01 :- To write a java  
+
+# Work of Java Compiler
+---> - Compiler checks for syntax(rules of language).
+     - If the syntax is write class files are generated.
+     - If the syntax is wrong class file are not generated instead it through compile time error where class files are not generated.
 *******************Notes added on date 18 March 2025*******************
 
 
