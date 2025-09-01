@@ -91,7 +91,15 @@ ii] Platform Independent software
  - Which consist of JRE and Development Tools, which helps us to develop as well as run the Java application.
 
 # Steps to Create, Cimpile and Execute a Java program.
-Step 01 :- To write a java  
+Step 01 :- To write a java program we need editiors and ide's
+        - Editor               IDE
+        - Notepad            Eclipse
+        - Notepad++          Intellij
+        - MS World           NetBeans
+        - EditPlus           VS code
+        - Sublime                     etc
+
+Step 02 :- Invoke or call the Java compiler to compile the Java file.
 
 # Work of Java Compiler
 ---> - Compiler checks for syntax(rules of language).
