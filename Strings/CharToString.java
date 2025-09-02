@@ -1,5 +1,5 @@
 package Strings;
-
+// 	Converting character array into String
 public class CharToString {
 	public static void main(String args[])
 	{
@@ -9,3 +9,4 @@ public class CharToString {
 		System.out.println(arr); // abcd
 	}
 }
+
