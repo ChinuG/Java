@@ -105,6 +105,9 @@ Step 02 :- Invoke or call the Java compiler to compile the Java file.
 ---> - Compiler checks for syntax(rules of language).
      - If the syntax is write class files are generated.
      - If the syntax is wrong class file are not generated instead it through compile time error where class files are not generated.
+
+Step 03 :- Call the JVM
+         - Which is use to execute the class file helps to run class files.
 *******************Notes added on date 18 March 2025*******************
 
 
