@@ -121,6 +121,10 @@ clsss ClassName
   - Class Block contains variables, Methods(main method, initializers, Constructors etc)
   - Whatever written within class it is called class block.
   - Whatever written within method is called method block
+
+# Syntax for print statement.
+---> - system.out.println(); // To print data to next line.
+     - System.out.println(); // To print data to same line.
 *******************Notes added on date 18 March 2025*******************
 
 
