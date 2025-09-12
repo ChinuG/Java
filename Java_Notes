@@ -127,6 +127,16 @@ clsss ClassName
      - System.out.println(); // To print data to same line.
 *******************Notes added on date 18 March 2025*******************
 
+# Basic CLT (Command Line Interface)
+  - 1) dir :- To explore the directory.
+  - 2) cls :- To clear the screen
+  - 3) DriveName :- Shift to another diriver i.e. c:\ D: (Enter) // It wil lshift to D driver
+  - 4) cd folderName :- Go to parent folder to child folder.
+  - 5) cd.. :- Go one folder previous OR child to parent folder.
+*******************Notes added on date 19 March 2025*******************
+
+
+
 
 
 
