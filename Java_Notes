@@ -133,6 +133,30 @@ clsss ClassName
   - 3) DriveName :- Shift to another diriver i.e. c:\ D: (Enter) // It wil lshift to D driver
   - 4) cd folderName :- Go to parent folder to child folder.
   - 5) cd.. :- Go one folder previous OR child to parent folder.
+  - 6) cd../.. :- Go to double folder previous.
+        e.g. :- c:\ program file\Java
+              ---> command : cd../.. Enter
+              O/P :- C:\
+  - 7) mkdir ro md FolderName enter
+       O/P :- Create Folder
+  - 8) rd Or rmdir FolderName Enter
+      O?P :- to remove folder
+  - 9) check Java version :- Java -version Enter
+  - 10) Check Java Compiler Version :- Javac -version Enter
+  - 11) Javac ClassName.java :- To compiler the Java code.
+  - 12) Java ClassNae :- To execute the Java Code
+
+# First Program
+= class program 
+{
+  public static void main(String args[])
+  {
+      System.out.println("Hello World!);
+  }
+}
+Javac Program.java (Enter)
+Java Program (Enter)
+O?P :- Hello World!
 *******************Notes added on date 19 March 2025*******************
 
 
