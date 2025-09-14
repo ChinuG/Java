@@ -157,6 +157,18 @@ clsss ClassName
 Javac Program.java (Enter)
 Java Program (Enter)
 O?P :- Hello World!
+
+HomeWork :- Introduction in Code
+class Introduction
+{
+  {
+    System.out.println("Name : Chinmay Gaikwad");
+    System.out.println("College Institute : SIMMC");
+    System.out.println("Branch : MCA");
+    System.out.println("Age : 23");
+    System.out.println("Address : Bavdhan Pune");
+  }
+}
 *******************Notes added on date 19 March 2025*******************
 
 
