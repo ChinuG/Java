@@ -169,6 +169,22 @@ class Introduction
     System.out.println("Address : Bavdhan Pune");
   }
 }
+
+#  Tokens
+  - Tokens are the smallest unit of programming language which helps programmer to create instructions(Programs)
+  - Tokens are the smallest unit of programming languate using which programmer create instructions or commands.
+
+-  Tokens are classified into 2 types
+  i)  Keyword
+ ii)  Identifiers
+
+i) - Compiler aware words are called keywords.
+   - They have pre-dfined meaning.
+   - It cannot be altered by a programmer.
+   - All the keywords are written in lower case.
+   - We cannot use keywords for any other purpose (Cannot be used as identifiers).
+   - There are 51+ keywords in Java
+   - e.g. class, public, static, void etc.
 *******************Notes added on date 19 March 2025*******************
 
 
