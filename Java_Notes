@@ -185,6 +185,9 @@ i) - Compiler aware words are called keywords.
    - We cannot use keywords for any other purpose (Cannot be used as identifiers).
    - There are 51+ keywords in Java
    - e.g. class, public, static, void etc.
+
+ii) Identifiers
+  - Definition :- Identifier are the names given by the programmer to the Java members such as class name, Method name, variable name, package name etc.
 *******************Notes added on date 19 March 2025*******************
 
 
