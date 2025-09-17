@@ -1,5 +1,5 @@
 package armstrongnumber;
-
+// Armstrong Number using while loop
 public class ArmStrongNumber {
 	public static void isArmstrong(int n)
 	{
@@ -27,3 +27,4 @@ public class ArmStrongNumber {
 		isArmstrong(153);
 	}
 }
+
