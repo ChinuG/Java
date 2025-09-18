@@ -190,6 +190,22 @@ ii) Identifiers
   - Definition :- Identifier are the names given by the programmer to the Java members such as class name, Method name, variable name, package name etc.
 *******************Notes added on date 19 March 2025*******************
 
+#  Rules for Naming the Identifiers.
+NOTE :- - i) Rules are mandatory to follow.
+        - ii) If not follow we get compile time error.
+        - iii) Because rules are check by compiler.
+1) An identifier cannot start with a number
+  e.g. 1Program (Wrong)
+       Program1 (Correct)
+2) Chracter spaces are not allowed while naming the identifer.
+  e.g. Introduction (Correct)
+       Intro duction (Wrong)
+3) Special Characters are not allowed other that "$" and "_" (Doller and Underscore)
+4) We cannot use keywords as identifiers.
+
+# Conventions
+1)  Conventions are nothing but the culture followed by the programmer or we can say it as industry standard.
+2)  Conventions are not check by the compiler, and it is not mandatory to follow but, it is hightly recommended to follow.
 
 
 
