@@ -188,6 +188,7 @@ i) - Compiler aware words are called keywords.
 
 ii) Identifiers
   - Definition :- Identifier are the names given by the programmer to the Java members such as class name, Method name, variable name, package name etc.
+
 *******************Notes added on date 19 March 2025*******************
 
 #  Rules for Naming the Identifiers.
@@ -207,9 +208,25 @@ NOTE :- - i) Rules are mandatory to follow.
 1)  Conventions are nothing but the culture followed by the programmer or we can say it as industry standard.
 2)  Conventions are not check by the compiler, and it is not mandatory to follow but, it is hightly recommended to follow.
 
+# Conventions for class Name and Interface Name
+Case 1 :- If class name or interface name is single word the first character of word must be Upper Case.
+    e.g. Program1 
+         Introduction.
+Case 2 :- If class Name or interface name has multiple words every first character of the word is written in Upper Case.
+    e.g. MyFirstProgram (Pascal Case)
 
+# Conventions for Method Name and Variable Name
+Case 1 :- It the method name or variable name is in single word, all the character written in lower case.
+    e.g. main() ----- // Identifier
 
+Case 2 :- If method name or variable name has multiple word first character fo the word must be written in lower case.
+        - From the 2nd word every first character must be written in Upper Case.
+      e.g. mergeMyName()
+           additionMethod()
+           printMyName() ----// Camel Casing
 
+    - (_) Underscore is a keyword cannot be used as identifier.
+    - ($) Used as a Identifier
 
 
 
