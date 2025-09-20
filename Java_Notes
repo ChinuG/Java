@@ -228,8 +228,27 @@ Case 2 :- If method name or variable name has multiple word first character fo t
     - (_) Underscore is a keyword cannot be used as identifier.
     - ($) Used as a Identifier
 
-
-
+# Literals :- Literals are nothing but the data which is in a written format
+(In Java, a literal is a fixed constant value that you directly write in the program code.
+It represents the actual data that is stored in a variable)
+    - Single value data(Primitive)
+        - Number -- Integer
+            - Whole Number (Number without decimal point(0, -1, -2, 50, 100 etc))
+            - Decimal (Number with decimal point(0.03, 3.14, 9.81, -13.6 etc))
+            - Character 
+              - They are written in single quotes('')
+                - Alphabets
+                  i) UpperCase('A'-'Z')
+                  ii) LowerCase('a'-'z')
+            - Digits(0-9)
+            - Special Character
+              - Other than Alphabets and digits rest of the characters are speical characters.
+            - Boolean (true OR false)
+    - Multivalue data(Non-Primitive)
+        - String :- Group of Character written in ("") dobule quotes.
+        - Array
+        - Interface etc.
+*******************Notes added on date 21 March 2025 Friday*******************
 
 
 
