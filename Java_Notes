@@ -248,6 +248,19 @@ It represents the actual data that is stored in a variable)
         - String :- Group of Character written in ("") dobule quotes.
         - Array
         - Interface etc.
+
+Example single quot and double quotes
+class Intro
+{
+  public static void main(String args[])
+  {
+    System.out.println("Chinmay Gaikwad");
+    System.out.println(23);
+    System.out.println(5000.50);
+    System.out.println('Z');
+    System.out.println(true);
+  }
+}
 *******************Notes added on date 21 March 2025 Friday*******************
 
 
