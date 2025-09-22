@@ -261,6 +261,28 @@ class Intro
     System.out.println(true);
   }
 }
+
+# ASCII Value (American Standard Code for Information Interchange)
+  - Every character is assing with speicial character as known as ASCII values.
+  - The ASCII range is from 0 to 127.
+  Where - Digits(0 to 9)
+          ASCII Value(48 to 57)
+
+          UpperCase Alphabets('A','Z')
+          ASCII Value(65 - 90)
+          LowerCase Alphabets('A','Z')
+          ASCII Value(97 - 122)
+  Rest of all are speical character
+  i.e.(0 - 47)
+      (58 - 64)
+      (91 - 96)
+      (123 - 127)
+
+  - Extended ASCII Range from 128 to 255
+  - ASCII values in C and C++ are 127
+  - But in JAVA ASCII values are 0 to 255
+                           i.e.128 to 255
+  Reason, Java supports multiple language.
 *******************Notes added on date 21 March 2025 Friday*******************
 
 
