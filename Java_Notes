@@ -285,6 +285,43 @@ class Intro
   Reason, Java supports multiple language.
 *******************Notes added on date 21 March 2025 Friday*******************
 
+# Variable Declaration Statement
+  - It is a statement used to create a variable
+  Syntax :- Datatype VariableName;
+            e.g. byte score;
+                 float height;
+                 char grade;
+                 String name;
+# Variable Initialization
+  - It is a statement used to assing the value inside the variable.
+
+  Syntax :- VariableName = value / expression;
+            name = "Ishan Kishan";
+            score = 106;
+            grade = 'A';
+            height = 5.7f;
+
+Example :- 
+class var1
+{
+  public static void main(String args)
+  {
+    String name;
+    byte score;
+    float height;
+    char grade;
+
+    name = "Ishan Kishan";
+    score = 106;
+    height = 5.7f;
+    grade = 'A';
+
+    System.out.println(name);
+    System.out.println(score);
+    System.out.println(height);
+    System.out.println(grade);
+  }
+}
 
 
 
