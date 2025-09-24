@@ -323,6 +323,10 @@ class var1
   }
 }
 
+# Variable declare and Initialization statement
+  - Here we declare the variable and store the value simultaniously
+  Syntax :- DataType VariableName = value / expression;
+
 
 
 
