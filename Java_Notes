@@ -326,7 +326,26 @@ class var1
 # Variable declare and Initialization statement
   - Here we declare the variable and store the value simultaniously
   Syntax :- DataType VariableName = value / expression;
+Code :-
+class var2
+{
+  public static void main(String aregs[])
+  {
+    String name = "Chinmay Gaikwad";
+    byte age = 23;
+    float salary = 88000.50f;
+    char grade = 'A';
+    long phone = 1234567890l;
+    boolean alive = true;
 
+    Sysoute.out.println(name);
+    Sysoute.out.println(age);
+    Sysoute.out.println(salary);
+    Sysoute.out.println(grade);
+    Sysoute.out.println(phone);
+    Sysoute.out.println(alive);
+  }
+}
 
 
 
