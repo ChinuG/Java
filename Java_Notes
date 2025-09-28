@@ -347,6 +347,15 @@ class var2
   }
 }
 
+# Vriables :- Variables are the container n which we store data.
+  - In Java, we can create variables with the help of dataType.
+# Types of Variables
+  i) Local Variable
+  ii) Global Variable
+      - Static variable
+      - Non-static variable
+
+
 
 
 
