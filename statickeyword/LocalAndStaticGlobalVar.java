@@ -17,7 +17,7 @@ public class LocalAndStaticGlobalVar {
 		System.out.println("3 : " + a);
 		a = 10;
 		System.out.println("4 : " + a); // Variable shadowing because local and static variable has same variable name.
-		// And this local a variable hides static variable in his scope(i.e. demo method block)
+		// And this local a variable hides static variable in his scope(i.e. demo() method block)
 		char a = 'a';
 		System.out.println("5 : " + a);
 		System.out.println("6 : " + LocalAndStaticGlobalVar.a);
@@ -31,3 +31,4 @@ public class LocalAndStaticGlobalVar {
 		System.out.println("7 : " + LocalAndStaticGlobalVar.a);
 	}
 }
+
