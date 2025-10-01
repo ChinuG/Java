@@ -1,4 +1,10 @@
 package statickeyword;
+// 	- Static block doesn't have any name
+//	- It doesn't have any return type
+// 	- No Access Modifier
+// 	- Doesn't have formal arguemtns
+// 	- Therefore
+// 	- A programmer cannot explicitely call a static block for execution
 
 public class StaticBlock {
 
@@ -18,3 +24,4 @@ public class StaticBlock {
 // the static block executes.
 // - Without main, the program has no "entry point". The JVM won’t know what to
 // do after running the static block, so we get an error.
+
