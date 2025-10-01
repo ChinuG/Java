@@ -4,8 +4,11 @@ public class Arr {
 	public static void main(String args[])
 	{
 		int arr[] = {1, 2, 3, 4, 5};
+		// Printing array using inbuilt method Arrays.toString()
+		System.out.println(Arrays.toString(arr));
+
+		// Printing array using for loop manually
 		
-//		System.out.println(Arrays.toString(arr));
 		int i = 0;
 		System.out.print("[ ");
 		for(; i<arr.length-1 ; i++)
@@ -16,3 +19,4 @@ public class Arr {
 		System.out.println(arr[i] + " ]");
 	}
 }
+
