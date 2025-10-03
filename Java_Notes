@@ -355,6 +355,8 @@ class var2
       - Static variable
       - Non-static variable
 
+# i) Local Variable
+  - Variable declared in method block or any other block other than class block is known as local variable.
 
 
 
