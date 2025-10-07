@@ -1,5 +1,5 @@
 package Arrays;
-
+//  Finding missing element in sorted array
 public class MissingElement 
 {
 	public static void missElement(int ar[])
@@ -35,3 +35,4 @@ public class MissingElement
 		missElement(ar);
 	}
 }
+
