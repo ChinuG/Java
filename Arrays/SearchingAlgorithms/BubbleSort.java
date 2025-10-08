@@ -17,14 +17,21 @@ public class BubbleSort {
 		int i;
 		for(i=0 ; i<arr.length-1 ; i++)
 		{
+			boolean check = false;
 			for(int j=0 ; j<arr.length-1-i ; j++)
 			{
-				int temp = arr[j];
-				arr[j] = arr[j+1];
-				arr[j+1] = temp;
+				if(arr[j] > arr[j+1])
+				{
+					check = true;
+					int temp = arr[j];
+					arr[j] = arr[j+1];
+					arr[j+1] = temp;
+				}
+			}
+			if(!check)
+			{
+				break;
 			}
 		}
-//		System.out.println(i);
-		
 	}
 }
