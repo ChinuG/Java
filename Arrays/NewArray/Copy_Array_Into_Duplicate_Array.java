@@ -9,10 +9,7 @@ public class Copy_Array_Into_Duplicate_Array
 	
 		for(int i=0 ; i<ar.length ; i++)
 		{
-			copyAr[i] = ar[i]; 
-		}
-		for(int i=0 ; i<ar.length ; i++)
-		{
+			copyAr[i] = ar[i];
 			System.out.print(copyAr[i] + " ");
 		}
 	}
@@ -22,3 +19,4 @@ public class Copy_Array_Into_Duplicate_Array
 		copyArray(ar);
 	}
 }
+
