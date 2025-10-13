@@ -14,7 +14,7 @@ public class ReverseCopyArray
 //			System.out.print(temp[i] + ", "); // Try to print Array using this print statement. O/P ===> 0, 0, 0, 0, 3, 4, 6, 34, 3, 
 		}
 //		System.out.print(temp[i] + " "); // Try to print Array using this print statement. o/p 
-		System.out.print(Arrays.toString(temp)); // O/p
+		System.out.print(Arrays.toString(temp)); // O/p [3, 4, 7, 6, 3, 4, 6, 34, 3]
 	}
 	public static void main(String args[])
 	{
@@ -22,3 +22,4 @@ public class ReverseCopyArray
 		reverseAr(ar);
 	}
 }
+
