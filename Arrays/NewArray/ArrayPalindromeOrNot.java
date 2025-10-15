@@ -1,5 +1,5 @@
 package NewArrays;
-
+// Check given array is palindrome or not
 import java.util.Arrays;
 
 public class ArrayPalindromeOrNot {
@@ -29,3 +29,4 @@ public class ArrayPalindromeOrNot {
 		palindromeAr(ar);
 	}
 }
+
