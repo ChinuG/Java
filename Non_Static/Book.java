@@ -8,4 +8,16 @@ public class Book {
 	String bind;
 	String size;
 	int gsm;
+
+	public void displayBook()
+	{
+		System.out.println(" : " + brand);
+		System.out.println(" : " + price);
+		System.out.println(" : " + pages);
+		System.out.println(" : " + type);
+		System.out.println(" : " + bind);
+		System.out.println(" : " + size);
+		System.out.println(" : " + gsm);
+	}
 }
+
