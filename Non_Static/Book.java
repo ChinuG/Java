@@ -11,6 +11,7 @@ public class Book {
 
 	public void displayBook()
 	{
+		System.out.println("For Book 4 With initializing values");
 		System.out.println(" : " + brand);
 		System.out.println(" : " + price);
 		System.out.println(" : " + pages);
@@ -20,4 +21,5 @@ public class Book {
 		System.out.println(" : " + gsm);
 	}
 }
+
 
