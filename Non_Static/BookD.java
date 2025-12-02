@@ -57,6 +57,8 @@ public class BookD {
 		System.out.println("Type is : "+ b3.type);
 		System.out.println("GSM is : "+ b3.gsm);
 		System.out.println("*****************************");
-		
+
+		System.out.println("For Book 4 With initializing values");
 	}
 }
+
