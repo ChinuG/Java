@@ -30,12 +30,20 @@ public class Bottle {
 		}
 	}
 	
-	public void displayBottle()
+//	public void displayBottle(String color, double cap)
+//	{
+//		this.color = color;
+//		this.cap = cap;
+//		
+//		System.out.println(this.color);
+//		System.out.println(this.cap);
+//	}
+	public void displayBottle(String color, double cap)
 	{
-		System.out.println(brand);
-		System.out.println(price);
-		System.out.println(color);
-		System.out.println(cap);
-		System.out.println(mat);
+		System.out.println("Brand : " + brand);
+		System.out.println("Price : " + price);
+		System.out.println("Color : " + color);
+		System.out.println("cap : " + cap);
+		System.out.println("Mat : " + mat);
 	}
 }
